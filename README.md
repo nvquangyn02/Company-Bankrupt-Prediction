@@ -159,22 +159,4 @@ To enhance predictions for bankrupt class (1):
 - Tune hyperparameters (e.g., `n_estimators=200` for RF, `C=0.5` for SVM)
 - Lower prediction threshold further (e.g., 0.1)
 
----
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contributing
-
-Contributions are welcome!  
-To contribute:
-1. Fork the repo
-2. Create a branch: `git checkout -b feature-branch`
-3. Submit a pull request with a clear description
-
----
-
-## Contact
-For questions or feedback, open an issue or contact: **[your-email@example.com]**
