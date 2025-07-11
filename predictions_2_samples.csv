@@ -1,0 +1,73 @@
+Approach,Model,Sample,Index,True Label,Prediction,Probability
+Correlation-based,Logistic Regression,1,239,0,0,0.009066834458182464
+Correlation-based (Threshold 0.3),Logistic Regression,1,239,0,0,0.009066834458182464
+Correlation-based (Threshold 0.2),Logistic Regression,1,239,0,0,0.009066834458182464
+Correlation-based,Logistic Regression,2,2850,0,0,0.14612854574431172
+Correlation-based (Threshold 0.3),Logistic Regression,2,2850,0,0,0.14612854574431172
+Correlation-based (Threshold 0.2),Logistic Regression,2,2850,0,0,0.14612854574431172
+Correlation-based,Random Forest,1,239,0,0,0.01
+Correlation-based (Threshold 0.3),Random Forest,1,239,0,0,0.01
+Correlation-based (Threshold 0.2),Random Forest,1,239,0,0,0.01
+Correlation-based,Random Forest,2,2850,0,0,0.02
+Correlation-based (Threshold 0.3),Random Forest,2,2850,0,0,0.02
+Correlation-based (Threshold 0.2),Random Forest,2,2850,0,0,0.02
+Correlation-based,XGBoost,1,239,0,0,0.005475983489304781
+Correlation-based (Threshold 0.3),XGBoost,1,239,0,0,0.005475983489304781
+Correlation-based (Threshold 0.2),XGBoost,1,239,0,0,0.005475983489304781
+Correlation-based,XGBoost,2,2850,0,0,8.610330405645072e-05
+Correlation-based (Threshold 0.3),XGBoost,2,2850,0,0,8.610330405645072e-05
+Correlation-based (Threshold 0.2),XGBoost,2,2850,0,0,8.610330405645072e-05
+Correlation-based,SVM,1,239,0,0,0.05542898160662571
+Correlation-based (Threshold 0.3),SVM,1,239,0,0,0.05542898160662571
+Correlation-based (Threshold 0.2),SVM,1,239,0,0,0.05542898160662571
+Correlation-based,SVM,2,2850,0,0,0.04161414043035832
+Correlation-based (Threshold 0.3),SVM,2,2850,0,0,0.04161414043035832
+Correlation-based (Threshold 0.2),SVM,2,2850,0,0,0.04161414043035832
+Correlation-based,K-Nearest Neighbors,1,239,0,0,0.0
+Correlation-based (Threshold 0.3),K-Nearest Neighbors,1,239,0,0,0.0
+Correlation-based (Threshold 0.2),K-Nearest Neighbors,1,239,0,0,0.0
+Correlation-based,K-Nearest Neighbors,2,2850,0,0,0.0
+Correlation-based (Threshold 0.3),K-Nearest Neighbors,2,2850,0,0,0.0
+Correlation-based (Threshold 0.2),K-Nearest Neighbors,2,2850,0,0,0.0
+Correlation-based,Decision Tree,1,239,0,0,0.0
+Correlation-based (Threshold 0.3),Decision Tree,1,239,0,0,0.0
+Correlation-based (Threshold 0.2),Decision Tree,1,239,0,0,0.0
+Correlation-based,Decision Tree,2,2850,0,0,0.0
+Correlation-based (Threshold 0.3),Decision Tree,2,2850,0,0,0.0
+Correlation-based (Threshold 0.2),Decision Tree,2,2850,0,0,0.0
+PCA,Logistic Regression,1,239,0,0,0.2562697078455276
+PCA (Threshold 0.3),Logistic Regression,1,239,0,0,0.2562697078455276
+PCA (Threshold 0.2),Logistic Regression,1,239,0,1,0.2562697078455276
+PCA,Logistic Regression,2,2850,0,0,0.08025915606784303
+PCA (Threshold 0.3),Logistic Regression,2,2850,0,0,0.08025915606784303
+PCA (Threshold 0.2),Logistic Regression,2,2850,0,0,0.08025915606784303
+PCA,Random Forest,1,239,0,0,0.08
+PCA (Threshold 0.3),Random Forest,1,239,0,0,0.08
+PCA (Threshold 0.2),Random Forest,1,239,0,0,0.08
+PCA,Random Forest,2,2850,0,0,0.0
+PCA (Threshold 0.3),Random Forest,2,2850,0,0,0.0
+PCA (Threshold 0.2),Random Forest,2,2850,0,0,0.0
+PCA,XGBoost,1,239,0,0,0.005415386985987425
+PCA (Threshold 0.3),XGBoost,1,239,0,0,0.005415386985987425
+PCA (Threshold 0.2),XGBoost,1,239,0,0,0.005415386985987425
+PCA,XGBoost,2,2850,0,0,0.0062919617630541325
+PCA (Threshold 0.3),XGBoost,2,2850,0,0,0.0062919617630541325
+PCA (Threshold 0.2),XGBoost,2,2850,0,0,0.0062919617630541325
+PCA,SVM,1,239,0,0,0.04902774341145201
+PCA (Threshold 0.3),SVM,1,239,0,0,0.04902774341145201
+PCA (Threshold 0.2),SVM,1,239,0,0,0.04902774341145201
+PCA,SVM,2,2850,0,0,0.025119227730177912
+PCA (Threshold 0.3),SVM,2,2850,0,0,0.025119227730177912
+PCA (Threshold 0.2),SVM,2,2850,0,0,0.025119227730177912
+PCA,K-Nearest Neighbors,1,239,0,0,0.0
+PCA (Threshold 0.3),K-Nearest Neighbors,1,239,0,0,0.0
+PCA (Threshold 0.2),K-Nearest Neighbors,1,239,0,0,0.0
+PCA,K-Nearest Neighbors,2,2850,0,0,0.0
+PCA (Threshold 0.3),K-Nearest Neighbors,2,2850,0,0,0.0
+PCA (Threshold 0.2),K-Nearest Neighbors,2,2850,0,0,0.0
+PCA,Decision Tree,1,239,0,0,0.0
+PCA (Threshold 0.3),Decision Tree,1,239,0,0,0.0
+PCA (Threshold 0.2),Decision Tree,1,239,0,0,0.0
+PCA,Decision Tree,2,2850,0,0,0.0
+PCA (Threshold 0.3),Decision Tree,2,2850,0,0,0.0
+PCA (Threshold 0.2),Decision Tree,2,2850,0,0,0.0
