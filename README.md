@@ -90,7 +90,7 @@ The dataset (`data_company.csv`) contains financial metrics for **6,819 companie
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/company-bankrupt-prediction.git
+git clone [https://github.com/your-username/company-bankrupt-prediction.git](https://github.com/nvquangyn02/Company-Bankrupt-Prediction.git)
 cd company-bankrupt-prediction
 
 # Install dependencies
